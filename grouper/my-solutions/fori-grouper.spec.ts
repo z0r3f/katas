@@ -1,6 +1,6 @@
 import { grouper } from './fori-grouper'
 
-describe('Fruit counter', () => {
+describe('Grouper', () => {
   it.each([
     [
       [
